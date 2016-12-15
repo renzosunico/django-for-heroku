@@ -3,7 +3,7 @@ This is a base django app with version 1.10.3 that can easily be deployed to Her
 
 
 ### Steps in deploying to Heroku
-Clone this project to your local machine.
+* Clone this project to your local machine.
 
 ```sh
 git clone https://github.com/renzosunico/django-for-heroku.git new-project
