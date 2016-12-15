@@ -24,7 +24,7 @@ rm -rf .git
 git init
 ```
 
-* Set the origin your local git with the newly created  remote repository.
+* Set the origin of your local git with the newly created remote repository.
 
 ```sh
 git remote add origin https://github.com/<YOUR-GIT-REPOSITORY>
