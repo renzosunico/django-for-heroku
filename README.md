@@ -1,7 +1,6 @@
-
 # django-for-heroku
 ##
-This is a base django app that can easily be deployed to Heroku.
+This is a base django app with version 1.10.3 that can easily be deployed to Heroku.
 
 
 ### Steps in deploying to Heroku
